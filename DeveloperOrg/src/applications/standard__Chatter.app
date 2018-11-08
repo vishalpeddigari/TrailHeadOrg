@@ -6,5 +6,5 @@
     <tab>standard-UserProfile</tab>
     <tab>standard-OtherUserProfile</tab>
     <tab>standard-CollaborationGroup</tab>
-    <tab>standard-File</tab>
+       <tab>standard-File</tab>
 </CustomApplication>
